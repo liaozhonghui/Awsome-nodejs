@@ -87,3 +87,5 @@ Show DebugCtrl+Shift+D
 ## 其他
 
 自动保存：File -> AutoSave ，或者 Ctrl+Shift+P，输入 auto
+
+AM\$2qg3*w*btz\*6
